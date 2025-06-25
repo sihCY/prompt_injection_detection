@@ -1,6 +1,6 @@
 # 🚫 prompt_injection_detection
 
-This repository contains the MalPID dataset proposed in the paper https://ieeexplore.ieee.org/abstract/document/10987374 that can be used to train detectors of prompt injection attacks in language model inputs. It also includes the used souce code to train and test the performance of two ML models—**Logistic Regression** and **ALBERT**—on a curated dataset of benign and malicious prompts.
+This repository contains the MalPID dataset proposed in the paper https://ieeexplore.ieee.org/abstract/document/10987374 that can be used to train detectors of prompt injection attacks in language model inputs. It also includes the used source code to train and test the performance of two ML models—**Logistic Regression** and **ALBERT**—on a curated dataset of legitimate and malicious prompts.
 
 ## 📁 Files
 
